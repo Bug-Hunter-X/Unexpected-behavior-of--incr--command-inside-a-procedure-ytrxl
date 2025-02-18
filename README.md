@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating an unexpected behavior of the `incr` command when used within a procedure. The script showcases a common error related to variable scoping in Tcl procedures. The solution demonstrates how to correctly handle variable scoping using the `global` or `upvar` commands.
